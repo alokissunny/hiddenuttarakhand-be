@@ -9,9 +9,6 @@ yarn-error.log
 .env.local
 .env.*.local
 
-# Build files
-public/
-
 # OS files
 .DS_Store
 Thumbs.db
